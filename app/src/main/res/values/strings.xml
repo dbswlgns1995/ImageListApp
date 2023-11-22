@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">짭터레스트</string>
+    <string name="base_url">https://api.unsplash.com/</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">검색</string>
+    <string name="empty_result">결과 없음</string>
+</resources>
