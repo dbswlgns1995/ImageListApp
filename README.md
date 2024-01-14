@@ -1,6 +1,5 @@
-#Simple ImageList App
-___
-##사용 스택
+# Simple ImageList App
+사용 스택
 * MVVM
 * Hilt
 * Retrofit
